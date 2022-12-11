@@ -1,5 +1,6 @@
 # Elza Fatkhieva CV
-![Photo](/img/photo.png)
+<image src="/img/photo.png" alt="photo" width="200">
+
  Hello! My name is Elza Fathieva, name in Discord -  Elza Fatkhieva, account in GitHub - @fatkhieva
 #####  Contacts
 * koshkamishka88@gmail.com
