@@ -1,0 +1,40 @@
+body {
+    margin:0;
+    font-size: 18px;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    background:  #4c565d;
+    background-size: 100%;
+}
+
+.header {
+    text-align: center;
+}
+
+a {
+    color: lightskyblue;
+}
+
+main, footer {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+h2 {
+    color: rgb(210, 228, 229)
+}
+
+.desription {
+    padding: 0 16px;
+
+}
+
+.card-photo {
+    width: 200px;
+}
+
+footer {
+    margin-bottom: 16px;
+}
+
